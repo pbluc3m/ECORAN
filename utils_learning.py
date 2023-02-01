@@ -60,7 +60,7 @@ class noNoise:
         return [0]
 
 
-# Base from https://towardsdatascience.com/deep-deterministic-policy-gradients-explained-2d94655a9b7b
+# Base from https://gist.github.com/cyoon1729/e0bf5c24b3722d6278402d151dcd860e
 class Memory:
     def __init__(self, max_size):
         self.max_size = max_size
