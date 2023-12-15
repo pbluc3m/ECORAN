@@ -1,6 +1,6 @@
 # Mean-Field Multi-Agent Contextual Bandit for Energy-Efficient Resource Allocation in vRANs
 
-Implementation for IEEE INFOCOM'24 of the paper: [Mean-Field Multi-Agent Contextual Bandit for Energy-Efficient Resource Allocation in vRANs](#) 
+Source code of the paper [Mean-Field Multi-Agent Contextual Bandit for Energy-Efficient Resource Allocation in vRANs](#) published in the proceedings of IEEE INFOCOM'24.
 
 ## Dependencies
 * Python >= 3.8
