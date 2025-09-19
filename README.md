@@ -15,3 +15,9 @@ Source code of the paper [Mean-Field Multi-Agent Contextual Bandit for Energy-Ef
 - `models_utils.py` includes some auxilary classes used by the models.
 - `process_data_classes.py` includes a set of classes used to process the data gathered from the experimental platform in order to feed the learning algorithm.
 - `utils_learning.py` includes a set of classes that implement the exploration noise and the reply buffers used by the learning algorithm.
+
+## Acknowledgements
+
+This work is partly supported by the Spanish Ministry of Economic Affairs and Digital Transformation and the European Union-NextGenerationEU through the [UNICO 5G I+D SORUS project](https://unica6g.it.uc3m.es/en/6g-sorus/).
+
+![PRTR](prtr.png)
